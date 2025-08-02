@@ -9,7 +9,7 @@ A snippet for Visual Studio Code which provides boilerplate for a React Componen
 3. Click `New Global Snippets file...`
 4. Paste the following code into the new file, in between the curly brackets:
 
-```
+```json
 "React Setup": {
     "prefix": "r~",
     "body": [
