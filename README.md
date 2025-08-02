@@ -11,10 +11,10 @@ A snippet for Visual Studio Code which provides boilerplate for a React Componen
 
 ```
 "React Setup": {
-		"prefix": "r~",
-		"body": [
-			"import React from 'react';\n\nconst $1 = () => {\n\n    return (\n        <>\n\n        </>\n    );\n\n};\n\nexport default $1;"
-		]
+    "prefix": "r~",
+    "body": [
+        "import React from 'react';\n\nconst $1 = () => {\n\n    return (\n        <>\n\n        </>\n    );\n\n};\n\nexport default $1;"
+    ]
 }
 ```
 
